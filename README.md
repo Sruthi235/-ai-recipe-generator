@@ -13,3 +13,8 @@ This project is a simple **React web application** integrated with **AWS Amplify
 - **Backend:** AWS Amplify (AppSync, DynamoDB, Lambda)
 - **Authentication:** AWS Cognito via Amplify
 - **Hosting:** AWS Amplify Hosting
+## 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,python,html,css,mysql,postgresql" />
+</p>
